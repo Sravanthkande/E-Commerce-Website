@@ -1,2 +1,21 @@
-# E-Commerce-Website
-This project deals with developing a Virtual website ‘E-commerce Website’. It provides the user with a list of the various products available for purchase in the store. For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the goods, it is sent for the order confirmation process.
+# E-Commerce Website
+
+A simple **Django-based** e-commerce platform with product management, user authentication, and order processing.
+
+## Features
+- **User Registration & Authentication**
+- **Product Listing & Filtering**
+- **Shopping Cart Management**
+- **Order Placement & Tracking**
+- **Admin Panel for Store Management**
+
+## Technologies Used
+- **Python** (Django Framework)
+- **SQLite / PostgreSQL** (Database)
+- **HTML, CSS, JavaScript** (Frontend)
+
+## Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/E-Commerce-Website.git
+   cd E-Commerce-Website
